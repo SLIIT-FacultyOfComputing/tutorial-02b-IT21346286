@@ -38,7 +38,7 @@ int main()
 
 
    netSalary = salary + otHrs* otRate;
-   printf("Net Salary is %f ", netSalary);
+   cot<<"Net Salary is %f ">>netSalary<<;
   
    return 0;
 }

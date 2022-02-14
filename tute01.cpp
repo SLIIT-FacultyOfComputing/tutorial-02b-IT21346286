@@ -26,6 +26,6 @@ int main()
     cout<<"Enter a length in cm : "<<endl;
     cin>>cm;
     inches = cm / 2.54;
-    cout<<"Length in inches is %f \n"<<inches<<endl;
+    cout<<"Length in inches is : \n"<<inches<<endl;
     return 0;
 }  
